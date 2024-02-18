@@ -1,5 +1,6 @@
-def mensagemTexto():
-    return str(input('Digite seeu texto'))
+def mensagemTexto(pergunta):
+    return str(input(pergunta))
 
-def mensagemFloat():
-    return float(input('Digite seu numero'))
+def mensagemFloat(pergunta):
+    return float(input(pergunta))
+
