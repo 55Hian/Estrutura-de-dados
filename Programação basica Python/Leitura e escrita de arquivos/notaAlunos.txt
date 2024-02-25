@@ -1,0 +1,3 @@
+aluno,nota(Pedro,8.0)
+aluno,nota(Maria,10.0)
+aluno,nota(Amilton,7.5)
