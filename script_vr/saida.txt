@@ -1,10 +1,6 @@
-		-_licitação
-		-_canais_parceiros
-		-_outbound
-		-_parcerias_integradas
-		-_parceiros_vr
-		-_cs
-		-_leads
-		-_inbound
-		-_loja_vr
-		-_bancos
+INP1070_receita_total
+INP1070_receita_de_antecipação
+INP1070_indice_de_penetração_de_antecipação
+INP1070_adesão
+INP1070_tarifa_operacional
+INP1070_outros
