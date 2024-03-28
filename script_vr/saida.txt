@@ -1,6 +1,1 @@
-INP1070_receita_total
-INP1070_receita_de_antecipação
-INP1070_indice_de_penetração_de_antecipação
-INP1070_adesão
-INP1070_tarifa_operacional
-INP1070_outros
+INP1070_assessoria_de_vendas-planejamento_comercial
