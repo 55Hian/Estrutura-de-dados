@@ -1,4 +1,5 @@
-INP1050_fgts_antecipação_/_crédito_consignado
-INP1050_aplicativo_conta_digital
-INP1050_fraude
-INP1050_ressarcimento_/_estorno
+pacote_essencial
+pacote_gerencial
+pacote_profissional
+pacote_coorporativo
+nenhum
