@@ -1,11 +1,11 @@
 {
    "destination_addresses" : 
    [
-      "Marginal Pinheiros, 504 - Pinheiros, São Paulo - SP, 04533-085, Brazil"
+      "Av. Jônia, 621 - Vila Alexandria, São Paulo - SP, 04634-011, Brazil"
    ],
    "origin_addresses" : 
    [
-      "Av. República do Líbano, 1786 - Moema, São Paulo - SP, 04501-002, Brazil"
+      "Av. das Acácias, 98 - Cidade Jardim, São Paulo - SP, 05672-000, Brazil"
    ],
    "rows" : 
    [
@@ -15,13 +15,13 @@
             {
                "distance" : 
                {
-                  "text" : "7.4 km",
-                  "value" : 7417
+                  "text" : "8.9 km",
+                  "value" : 8878
                },
                "duration" : 
                {
                   "text" : "16 mins",
-                  "value" : 962
+                  "value" : 932
                },
                "status" : "OK"
             }
