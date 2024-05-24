@@ -1,11 +1,11 @@
 {
    "destination_addresses" : 
    [
-      "Av. Mons.Manfredo Leite, 207 - Vila Sonia, São Paulo - SP, Brazil"
+      "Av. Eng. Eusébio Stevaux, 823 - Campo Grande, São Paulo - SP, 04696-000, Brazil"
    ],
    "origin_addresses" : 
    [
-      "R. Min. Jesuíno Cardoso, 357 - Vila Olímpia, São Paulo - SP, 04544-051, Brazil"
+      "Av. Nossa Sra. do Sabará, 1119 - Vila Sofia, São Paulo - SP, 04685-003, Brazil"
    ],
    "rows" : 
    [
@@ -15,13 +15,13 @@
             {
                "distance" : 
                {
-                  "text" : "9.1 km",
-                  "value" : 9112
+                  "text" : "2.2 km",
+                  "value" : 2188
                },
                "duration" : 
                {
-                  "text" : "21 mins",
-                  "value" : 1255
+                  "text" : "6 mins",
+                  "value" : 361
                },
                "status" : "OK"
             }
